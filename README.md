@@ -1,6 +1,6 @@
-# Reactjs Global state without Provider
+# Reactjs Global state without Providers
 
-This project is an example how to shared states across components without Providers just like Context api
+It is an example how to share states across components without Providers just like Context api
 
 ## Available Scripts
 
